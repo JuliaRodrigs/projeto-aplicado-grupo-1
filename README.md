@@ -1,19 +1,21 @@
 # Projeto Aplicado - Grupo 1
-![logo_mack_ead](https://github.com/JuliaRodrigs/projeto-aplicado-grupo-1/assets/131941832/335d9006-1390-48fd-a7f8-d4941808ad0b)
+<h1 align="center"> Qual canal de vendas mais atrai os perfis analisados? </h1>
+
+![Analise](https://github.com/JuliaRodrigs/projeto-aplicado-grupo-1/assets/131941832/746a4507-a9be-4d5e-b389-7931840029dc)
+
+Em uma época onde os algoritmos são cada vez mais específicos e a busca por conteúdos especializados cresce de forma exponencial, é essencial que as empresas se adaptem e entendam o perfil de seus consumidores para garantir um posicionamento estratégico no mercado.  
+
+O presente projeto busca discorrer sobre o comportamento de diferentes perfis e seu potencial de compra considerando canais de vendas diversos. Serão considerados para esse projeto dados demográficos, de visualização de sites e adesão a campanhas de marketing. A partir dos dados analisados o estudo buscará responder a seguinte pergunta: "qual canal de venda mais atrai os perfis analisados?" 
+
 
 # Índice 
 
-* [Descrição do Projeto](#descrição-do-projeto)
 * [Descrição do Dataset](#descrição-do-dataset)
 * [Objetivos e Metas](#objetivos-e-metas)
 * [Mapa  Mental](#mapa-mental)
 * [Conclusão](#conclusão)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Desenvolvedores do Projeto] (#desenvolvedores-do-projeto)
 
-# Descrição do Projeto
-Em uma época onde os algoritmos são cada vez mais específicos e a busca por conteúdos especializados cresce de forma exponencial, é essencial que as empresas se adaptem e entendam o perfil de seus consumidores para garantir um posicionamento estratégico no mercado. 
-
-O presente projeto busca discorrer sobre o comportamento de diferentes perfis e seu potencial de compra considerando canais de vendas diversos. Serão considerados para esse projeto dados demográficos, de visualização de sites e adesão a campanhas de marketing. A partir dos dados analisados o estudo buscará responder a seguinte pergunta: "qual canal de venda mais atrai os perfis analisados?"
 
 # Descrição do Dataset
 O relatório Customer Personality Analysis será utilizado como o DataSet que guiará as análises realizadas ao longo desse projeto. A empresa e o período de análise não foram divulgados. Akash Patel, Cientista Executivo de Dados na NielsenIQ, é o responsável pela disponibilização do projeto na plataforma Kaggle. O autor mantém um perfil ativo no github.
@@ -70,7 +72,16 @@ Em conclusão, lojas físicas ainda são a preferência das pessoas, especialmen
 
 Através dessa conclusão as lojas poderão ajustar seu trabalho de comunicação dentro do e-commerce para impulsionar as compras através deste canal, além de poder atingir um público maior considerando núcleos familiares com adolescentes.
 
+# Desenvolvedores do Projeto 
+Aparecida Vânia de 
 
+Bruno Gomes
+
+Julia Rodrigue
+
+Lara Cabral 
+
+Lucas Gomes Porfirio
 
 
 
