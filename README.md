@@ -14,7 +14,7 @@ O presente projeto busca discorrer sobre o comportamento de diferentes perfis e 
 * [Objetivos e Metas](#objetivos-e-metas)
 * [Mapa  Mental](#mapa-mental)
 * [Conclusão](#conclusão)
-* [Desenvolvedores do Projeto] (#desenvolvedores-do-projeto)
+* [Desenvolvedores do Projeto](#desenvolvedores-projeto)
 
 
 # Descrição do Dataset
